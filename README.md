@@ -1,6 +1,6 @@
 # Metabolomics_frailty
 
-This document provides explanations regarding the codes used in the manuscript "Unraveling the metabolic underpinnings of frailty using multi-cohort observational and Mendelian randomization analyses".
+This document provides explanations on the codes used in the manuscript "Unraveling the metabolic underpinnings of frailty using multi-cohort observational and Mendelian randomization analyses".
 
 Jonathan K. L. Mak, Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Sweden
 
